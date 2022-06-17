@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Project Name: Hide and Seek;
 
-> Description the project.
+> Description the project: You are to find the bugs in findBugs.js file and write and issue to it.
 
 
 ## Built With
